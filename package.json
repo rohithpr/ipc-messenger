@@ -1,0 +1,11 @@
+{
+  "name": "ipc-messenger",
+  "version": "1.0.0",
+  "description": "A package for node.js that helps send messages to processes created by cluster.",
+  "private": false,
+  "main": "ipc-messenger.js",
+  "author": "Rohith PR",
+  "license": "MIT",
+  "dependencies": {
+  }
+}

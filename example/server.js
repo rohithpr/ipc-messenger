@@ -1,9 +1,3 @@
-# ipc-messenger
-A package for node.js that helps send messages to processes created by cluster.
-
-### Example
-
-```javascript
 (function() {
   var cluster = require('cluster')
   var http = require('http')
@@ -40,4 +34,3 @@ A package for node.js that helps send messages to processes created by cluster.
     http.createServer(handler).listen(8000)
   }
 })()
-```

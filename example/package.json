@@ -1,0 +1,12 @@
+{
+  "name": "ipc-messenger",
+  "version": "1.0.0",
+  "description": "Example for ipc-messenger",
+  "private": false,
+  "main": "server.js",
+  "author": "Rohith PR",
+  "license": "MIT",
+  "dependencies": {
+    "ipc-messenger": "^1.0.0"
+  }
+}
