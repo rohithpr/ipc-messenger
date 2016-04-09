@@ -6,6 +6,24 @@
   "main": "ipc-messenger.js",
   "author": "Rohith PR",
   "license": "MIT",
-  "dependencies": {
-  }
+  "dependencies": {},
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohithpr/ipc-messenger.git"
+  },
+  "keywords": [
+    "ipc",
+    "interprocess",
+    "messages"
+  ],
+  "bugs": {
+    "url": "https://github.com/rohithpr/ipc-messenger/issues"
+  },
+  "homepage": "https://github.com/rohithpr/ipc-messenger#readme"
 }
